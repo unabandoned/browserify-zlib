@@ -14,15 +14,7 @@ var inputString = 'ΩΩLorem ipsum dolor sit amet, consectetur adipiscing elit.'
                   ' Suspendisse nec ullamcorper odio. Vestibulum arcu mi, sod' +
                   'ales non suscipit id, ultrices ut massa. Sed ac sem sit am' +
                   'et arcu malesuada fermentum. Nunc sed. ';
-var expectedBase64Deflate = 'eJxdUUtOQzEMvMoc4OndgT0gJCT2buJWlpI4jePeqZfpmXAK' +
-                            'LRKbLOzx/HK73q6vOrhCunlF1qIDJhNUeW5I2ozT5OkDlKWL' +
-                            'JWkncJG5403HQXAkT3Jw29B9uIEmToMukglZ0vS6ociBh4JG' +
-                            '8sV4oVLEUCitK2kxq1WzPnChHDzsaGKy491LofoAbWh8do43' +
-                            'oeuYhB5EPCjcLjzYJo48KrfQBvnJecNFJvHT1+RSQsGoC7dn' +
-                            '2t/xjhduTA1NWyQIZR0pbHwMDatnD+crPqKSqGPHp1vnlsWM' +
-                            '/07ubf7bheF7kqSj84Bm0R1fYTfaK8vqqqfKBtNMhe3OZh6N' +
-                            '95CTvMX5HJJi4xOVzCgUOIMSLH7wmeOHaFE4RdpnGavKtrB5' +
-                            'xzfO/Ll9';
+var expectedBase64Deflate = 'eJxdkN1pA0EMhFuZAo7rIe9JCBjyLu/KRrC7WuvHPbkZ1xTuEtuQV2lmmPnut/vtXY07ZHp2VG1qcAlQ51hQdDiX4EgDVZniRcYZ3CRWfKgdBSfKIsf0BTMtHRQ4G12lEqqUyL6gyZFNQVZyS7xSa+JoVDaXDBTtXas+dJ0jHZwY4rLiM1uj/hAtGHxJxuCCqRaE2aiwUSy7HuyBE1vnEdlBeU5ecJUgfvYKbi0dTlN4PNf+nVe88WAaGDpQhTrUiqz4MpWBS4rv8xFpU3zFIX3yqOLOL8tO89+PC/YlRW2yQavoim/2kGO2reqGp8sC10qNfU/z9CJTAlIXZAuTwo4MdHKnFQeuoALn/trxG7RFJFV6wdhQjk1bV/wAzvy5fQ==';
 var expectedBase64Gzip = 'H4sIAAAAAAAAA11RS05DMQy8yhzg6d2BPSAkJPZu4laWkjiN496' +
                          'pl+mZcAotEpss7PH8crverq86uEK6eUXWogMmE1R5bkjajNPk6Q' +
                          'OUpYslaSdwkbnjTcdBcCRPcnDb0H24gSZOgy6SCVnS9LqhyIGHg' +
