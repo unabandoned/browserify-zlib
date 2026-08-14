@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.1](https://github.com/unabandoned/browserify-zlib/compare/browserify-zlib-v2.0.0...browserify-zlib-v2.0.1) (2026-08-14)
+
+
+### Dependencies & maintenance
+
+* **deps:** pin dependencies ([#3](https://github.com/unabandoned/browserify-zlib/issues/3)) ([cfe2086](https://github.com/unabandoned/browserify-zlib/commit/cfe2086f3da03d11b19c00a99fac0ba15ffc348b))
+* **deps:** update unabandoned/.github digest to ae2bd5a ([#4](https://github.com/unabandoned/browserify-zlib/issues/4)) ([6009ea5](https://github.com/unabandoned/browserify-zlib/commit/6009ea5dbde2e8104802a16f5f2a7e8a7b319920))
+
 ## [2.0.0](https://github.com/unabandoned/browserify-zlib/compare/browserify-zlib-v1.0.0...browserify-zlib-v2.0.0) (2026-08-14)
 
 

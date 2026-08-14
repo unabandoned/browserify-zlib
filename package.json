@@ -1,6 +1,6 @@
 {
   "name": "@unabandoned/browserify-zlib",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Full zlib module for the browser",
   "keywords": [
     "zlib",
