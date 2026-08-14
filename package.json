@@ -14,7 +14,7 @@
     "test": "test"
   },
   "dependencies": {
-    "pako": "^2.2.0"
+    "pako": "^3.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "21.2.2",
