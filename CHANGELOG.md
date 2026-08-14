@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.2](https://github.com/unabandoned/browserify-zlib/compare/browserify-zlib-v2.0.1...browserify-zlib-v2.0.2) (2026-08-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency pako to v3 ([#8](https://github.com/unabandoned/browserify-zlib/issues/8)) ([dd894fd](https://github.com/unabandoned/browserify-zlib/commit/dd894fd9fac3e251aa756d0bb4f502727906ab5c))
+
+
+### Dependencies & maintenance
+
+* **deps:** update unabandoned/.github digest to 88ce617 ([#7](https://github.com/unabandoned/browserify-zlib/issues/7)) ([1e4fa8a](https://github.com/unabandoned/browserify-zlib/commit/1e4fa8a64519484edd6bddf333c637aff8f614fb))
+
 ## [2.0.1](https://github.com/unabandoned/browserify-zlib/compare/browserify-zlib-v2.0.0...browserify-zlib-v2.0.1) (2026-08-14)
 
 
