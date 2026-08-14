@@ -9,12 +9,10 @@ var nonStringInputs = [1, true, {a: 1}, ['a']];
 
 console.error('Doing the non-strings');
 nonStringInputs.forEach(function(input) {
-  // zlib.gunzip should not throw an error when called with bad input.
-  assert.doesNotThrow(function() {
-    zlib.gunzip(input, function(err, buffer) {
-      // zlib.gunzip should pass the error to the callback.
-      assert.ok(err);
-    });
+  // On modern Node, zlib.gunzip throws synchronously (ERR_INVALID_ARG_TYPE)
+  // when called with a non-string / non-Buffer input, matching core zlib.
+  assert.throws(function() {
+    zlib.gunzip(input, function(err, buffer) {});
   });
 });
 
