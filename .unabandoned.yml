@@ -1,0 +1,20 @@
+schema: 1
+
+package: "@unabandoned/browserify-zlib"
+
+upstream:
+  repo: devongovett/browserify-zlib
+  reason: "unmaintained upstream — released 0.2.0 and left idle while its dependency tree ages"
+
+summary: >-
+  Node's core `zlib` compression module reimplemented for the browser, built on
+  the pako deflate/inflate library.
+
+why-forked: >-
+  A browserify core-module shim that went unmaintained while its tree aged;
+  forked so Renovate keeps that tree current for the consumers that pull it in
+  transitively.
+
+status: active
+
+tags: [browser, zlib, compression, node-core-polyfill, browserify]
