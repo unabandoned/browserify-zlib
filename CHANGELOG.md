@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.0.3](https://github.com/unabandoned/browserify-zlib/compare/browserify-zlib-v2.0.2...browserify-zlib-v2.0.3) (2026-08-17)
+
+
+### Dependencies & maintenance
+
+* add .unabandoned.yml dashboard metadata ([#10](https://github.com/unabandoned/browserify-zlib/issues/10)) ([87237f9](https://github.com/unabandoned/browserify-zlib/commit/87237f9d97c504c6936274a93fb0e1de9cea4710))
+* **deps:** update unabandoned/.github action to v1.0.1 ([#14](https://github.com/unabandoned/browserify-zlib/issues/14)) ([656004c](https://github.com/unabandoned/browserify-zlib/commit/656004cef04c76052892276cbaf7bc47ecaa831d))
+* **deps:** update unabandoned/.github digest to 461710f ([#12](https://github.com/unabandoned/browserify-zlib/issues/12)) ([0b02d62](https://github.com/unabandoned/browserify-zlib/commit/0b02d62434ca33d1c197b8179223d0ad9e5ede05))
+* pin reusable workflows to the @unabandoned/.github v1.0.0 release ([#13](https://github.com/unabandoned/browserify-zlib/issues/13)) ([be3a4b8](https://github.com/unabandoned/browserify-zlib/commit/be3a4b8fd99596de220c3b87519ef5805853857b))
+
 ## [2.0.2](https://github.com/unabandoned/browserify-zlib/compare/browserify-zlib-v2.0.1...browserify-zlib-v2.0.2) (2026-08-14)
 
 
