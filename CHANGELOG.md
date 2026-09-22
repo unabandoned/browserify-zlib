@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.0.4](https://github.com/unabandoned/browserify-zlib/compare/browserify-zlib-v2.0.3...browserify-zlib-v2.0.4) (2026-09-22)
+
+
+### Dependencies & maintenance
+
+* **deps:** update unabandoned/.github action to v1.0.4 ([#17](https://github.com/unabandoned/browserify-zlib/issues/17)) ([d110716](https://github.com/unabandoned/browserify-zlib/commit/d1107162f635a67c9539008462ccd359b92afe10))
+* **deps:** update unabandoned/.github action to v1.0.5 ([#18](https://github.com/unabandoned/browserify-zlib/issues/18)) ([55ebc5b](https://github.com/unabandoned/browserify-zlib/commit/55ebc5b4db2c64ded39e0737e1e2c3edd3bc2b39))
+* **deps:** update unabandoned/.github action to v1.1.0 ([#20](https://github.com/unabandoned/browserify-zlib/issues/20)) ([4034105](https://github.com/unabandoned/browserify-zlib/commit/40341059fe718798533d2bf46c98007b1a051684))
+
 ## [2.0.3](https://github.com/unabandoned/browserify-zlib/compare/browserify-zlib-v2.0.2...browserify-zlib-v2.0.3) (2026-08-28)
 
 
