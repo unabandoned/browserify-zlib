@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.5](https://github.com/unabandoned/browserify-zlib/compare/browserify-zlib-v2.0.4...browserify-zlib-v2.0.5) (2026-09-23)
+
+
+### Bug Fixes
+
+* stop dev-only commits from cutting releases ([#23](https://github.com/unabandoned/browserify-zlib/issues/23)) ([380f02e](https://github.com/unabandoned/browserify-zlib/commit/380f02e393a1687d878477dc7fa5fb0c73ff49f4))
+
 ## [2.0.4](https://github.com/unabandoned/browserify-zlib/compare/browserify-zlib-v2.0.3...browserify-zlib-v2.0.4) (2026-09-22)
 
 
