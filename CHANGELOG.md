@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.5](https://github.com/unabandoned/browserify-zlib/compare/browserify-zlib-v2.0.4...browserify-zlib-v2.0.5) (2026-09-23)
+
+
+### Dependencies & maintenance
+
+* **deps:** update commitlint monorepo to v21.2.3 ([#21](https://github.com/unabandoned/browserify-zlib/issues/21)) ([c5da71d](https://github.com/unabandoned/browserify-zlib/commit/c5da71dcd8c0cb2495f2a03831eb75400f24d768))
+
 ## [2.0.4](https://github.com/unabandoned/browserify-zlib/compare/browserify-zlib-v2.0.3...browserify-zlib-v2.0.4) (2026-09-22)
 
 
